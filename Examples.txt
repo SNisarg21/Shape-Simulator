@@ -1,0 +1,31 @@
+Equilateral Triangle : 125
+
+Right-angled Triangle : Base : 90
+				    Height : 120
+
+Scalene Triangle : SSS : 150 160 170 ; 
+			    SAS : 90 124deg 120
+
+Isoceles Triangle : 180 40deg 120 => common side
+
+Parallelogram :  130 230 60deg
+
+Rhombus : 120 80deg
+
+Square : 175 50deg
+
+Rectangle : 130 230
+
+Kite : 139.943 101.823 104.036 1 61.928
+
+Trapezuim : 160 120 78 120 70deg 68.961deg
+
+Regular Pentagon : 150
+
+Irregular Pentagon : 120 121.2 126.6 99.6 79.2 118.09deg 70.08deg 139.86deg 97.35deg
+
+Regular hexagon : 150
+
+Irregular Hexagon : 100 140 160 80 150 134 148deg 112deg 106deg 125deg 144deg
+
+Regular Heptagon : 150
